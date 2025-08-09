@@ -24,7 +24,7 @@ Além de decidir se deve focar em back-end, front-end ou full-stack, é necessá
 
 ## 🗺️ Mapa Mental
 
-![Mapa Mental](imagens/mapa-mental.png)
+![Mapa Mental](mapa-mental.png)
 
 ---
 
