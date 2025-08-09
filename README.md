@@ -1,4 +1,4 @@
-# 🌐 Desenvolvimento Web – Resumo e Mapa Mental
+# 🌐 Programação web | Back-end, Front-end e Full-stack
 
 **Autores:**  
 João Pedro Gonçalves de Aquino  
