@@ -90,7 +90,7 @@ Com o objetivo de simplificar o conteúdo do texto, o mapa mental a seguir sinte
 - FREITAS, Henrique; JANISSEK, R.; MOSCAROLA, Jean. **Dinâmica do processo de coleta e análise de dados via web.** In: CIBRAPEQ Congresso Internacional de Pesquisa Qualitativa. 2004. p. 1-13.
 - SILVESTRE, Hugo C; ARAÚJO, Joaquim F. **Metodologia para a investigação social.** Lisboa: Escolar, 2012.
 
-
+---
 
 # 🌐 SEGURANÇA E DESAFIOS EM APLICAÇÃO WEB
 **Autores:** 
