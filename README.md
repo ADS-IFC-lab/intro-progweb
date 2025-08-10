@@ -101,3 +101,58 @@ Manter a segurança é um processo contínuo, que exige atualização constante 
 - [F5](https://www.f5.com/pt_br/company/blog/web-application-security-testing-tools#:~:text=Tipos%20de%20testes%20de%20segurança,melhor%20possíveis%20fragilidades%20de%20segurança.) - Ferramentas de Testes de Segurança
 - [Hostinger](https://www.hostinger.com/br/tutoriais/seguranca-web) - Segurança Web 
 - [Windows](https://learn.microsoft.com/pt-br/windows/win32/secauthz/the-client-security-context) - Segurança Cliente
+
+
+---
+# 🌐 Análise de Dados em Aplicações Web
+**Autores:**
+Andressa dos Santos Antunes
+
+---
+
+No contexto do avanço tecnológico, a sociedade contemporânea gera um volume substancial de dados provenientes de fontes diversas, tais como, plataformas de mídias sociais, repositórios digitais e instituições governamentais. A crescente disponibilidade desses dados é acompanhada por um esforço de transformá-los em informações mais acessíveis a um público que, muitas vezes, não possui conhecimento especializado para compreensão destes dados (Dos Santos Filho, 2022).
+
+---
+### A Revolução da Internet na Pesquisa
+
+De acordo com Freitas, Janissek e Moscarola (2004, p. 1), a internet revolucionou a pesquisa ao possibilitar a coleta e a disseminação de informações de forma mais rápida, barata e abrangente. Ela eliminou as barreiras de tempo, custo e distância, permitindo que pesquisadores alcancem uma audiência global instantaneamente.
+
+Além disso, possibilitou transformar a maneira como os questionários são criados e administrados, proporcionando o uso de recursos multimídia (som, imagens, vídeos) para tornar a coleta e a apresentação dos resultados mais rica e interativa. A automação do processo de coleta de dados aumenta a eficiência e a velocidade, permitindo a obtenção de um maior volume de informações e análises em um curto período. Adicionalmente, essa abordagem viabiliza a análise contínua, uma vez que a coleta de dados pode ser mantida de forma ininterrupta.
+
+> Novas tecnologias oferecem novas possibilidades para os diferentes atores que fazem parte do processo de pesquisa: o cliente - aquele que busca conhecimento e informação para tomar a decisão correta no tempo certo; o pesquisador - aquele cujo trabalho é prover informação com segurança e atualidade, no formato desejado pelo cliente; o respondente - aquele que, sendo a fonte de informação, é talvez o mais importante link no processo de pesquisa, mas que é frequentemente tratado apenas como ator passivo. (Freitas; Janissek-Muniz; Moscarola, 2004, p. 2)
+
+---
+### A Estatística como Ferramenta Essencial
+
+Em um mundo cada vez mais orientado por dados, a Estatística emerge como uma ferramenta essencial para extrair conhecimento e tomar decisões estratégicas. Sua aplicação vai além de números e gráficos, oferecendo métodos rigorosos para coletar, organizar e analisar informações. Seu estudo permite transformar dados brutos em insights valiosos, tornando-se uma ferramenta indispensável em diversas áreas, desde a ciência e a economia até o cotidiano.
+
+Ela é dividida em duas áreas principais:
+* **Estatística Descritiva:** lida com a organização e descrição de dados de uma população.
+* **Estatística Indutiva (ou Inferencial):** analisa e interpreta dados de uma amostra para extrair conclusões e subsidiar decisões.
+
+Em essência, a Estatística Descritiva resume os dados, enquanto a Estatística Indutiva os utiliza para inferir e tomar decisões (Da Silva, 2009, p. 7).
+
+---
+### Abordagens de Pesquisa: Qualitativa e Quantitativa
+
+No campo da pesquisa, existem diversas abordagens para a coleta e o tratamento de dados. Neste texto, exploraremos os métodos de pesquisa quantitativo e qualitativo, que são duas das principais vertentes metodológicas.
+
+De acordo com Silvestre e Araújo (2012, p.172):
+* O **método de pesquisa quantitativa** emprega técnicas voltadas para o processamento de um vasto volume de variáveis e observações. O principal objetivo dessa abordagem é identificar padrões e relações entre as variáveis em estudo.
+* A **pesquisa qualitativa**, por sua vez, foca na imersão em um universo de análise mais restrito. Seu propósito é investigar profundamente os valores, crenças e processos sociais dos participantes. Dessa forma, o pesquisador obtém uma compreensão mais completa da realidade, adotando a perspectiva dos indivíduos que são objeto de estudo.
+---
+
+###  🗺️ Mapa Mental
+
+Com o objetivo de simplificar o conteúdo do texto, o mapa mental a seguir sintetiza as informações mais relevantes. Ele serve como um guia rápido, destacando a estrutura do argumento e as conexões entre os conceitos, ideal para revisar e fixar o conhecimento.
+
+![Mapa mental - Analise de Dados e IA em Aplicações Web](Mapa-Analise-de-Dados-e-IA.jpg)
+
+---
+### Referências
+
+- DA SILVA, André Luiz Carvalhal.**Introdução à análise de dados.** E-papers, 2009.
+- DOS SANTOS FILHO, Constantino Veríssimo et al.**Um aplicativo web para análise de dados públicos.** 2022.
+- FREITAS, Henrique; JANISSEK, R.; MOSCAROLA, Jean. **Dinâmica do processo de coleta e análise de dados via web.** In: CIBRAPEQ Congresso Internacional de Pesquisa Qualitativa. 2004. p. 1-13.
+- SILVESTRE, Hugo C; ARAÚJO, Joaquim F. **Metodologia para a investigação social.** Lisboa: Escolar, 2012.
+
