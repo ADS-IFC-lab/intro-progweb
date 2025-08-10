@@ -36,3 +36,68 @@ Além de decidir se deve focar em back-end, front-end ou full-stack, é necessá
 - [Notas sobre o mercado de trabalho para programadores front-end](https://dev.to/bytebodger/notes-on-the-job-market-for-frontend-programmers-29de)  
 - [Mudanças no mercado para desenvolvedores Android](https://nameisjayant.medium.com/the-android-developer-job-market-is-changing-are-you-ready-7be7e3e3d80c)  
 - [Por que seus anos de experiência podem não importar mais](https://dev.to/wiseai/10-reasons-why-your-years-of-experience-wont-matter-anymore-1cc6)  
+
+
+
+# 🌐 SEGURANÇA E DESAFIOS EM APLICAÇÃO WEB
+**Autores:** 
+
+ Fernando Maia, Laura Urba e Samuel Dolberth
+
+ ---
+
+## 📝 Resumo
+
+Quando falamos em segurança, imaginamos proteção e controle de acesso. No contexto de aplicações web, isso significa práticas e tecnologias que protegem dados, garantem integridade e limitam o acesso apenas a quem é autorizado. A internet, apesar de poderosa, traz riscos: invasões, roubo de informações e alterações indevidas em sites. Sem segurança adequada, dados sensíveis ficam vulneráveis. O objetivo é impedir ataques, uso indevido, modificações não autorizadas, destruição de dados ou interrupções de serviço.
+A segurança atua tanto no servidor, garantindo armazenamento e processamento protegidos, quanto no cliente, protegendo informações trocadas e assegurando navegação segura. Isso envolve desde configurações do servidor e código no navegador até o uso de frameworks modernos, HTTPS e ferramentas de análise de vulnerabilidades.
+
+## Vulnerabilidades Web
+Falhas em aplicações permitem que invasores acessem códigos, manipulem dados ou interrompam o serviço. Segundo a OWASP, os principais riscos incluem:
+Injeção de SQL: permite adulterar consultas ao banco de dados e acessar informações como senhas ou dados de cartão.
+- Cross-Site Scripting (XSS): execução de scripts maliciosos em páginas, permitindo acesso a dados sensíveis.
+- Cross-Site Request Forgery (CSRF): induz o usuário a executar ações indesejadas, explorando cookies de sessão.
+- Preenchimento de Credenciais: uso de dados vazados para invadir contas, especialmente perigosos em serviços financeiros.
+- Local File Inclusion (LFI): inclusão de arquivos locais do servidor, expondo dados ou executando código malicioso.
+
+## Desafios Técnicos no Desenvolvimento Seguro
+Os desafios técnicos de segurança na web impactam diretamente usuários e organizações, podendo causar vazamento de dados, perdas financeiras e danos à reputação. Com aplicações cada vez mais complexas e ameaças em constante evolução, é essencial adotar práticas para prevenir ataques e manter a confiança dos usuários, tais como:
+- Validação e sanitização de entradas: garante formato e conteúdo corretos, removendo caracteres perigosos antes do processamento.
+- Gerenciamento seguro de sessões e cookies: uso de identificadores aleatórios, flags Secure e HttpOnly, expiração adequada e renovação de ID de sessão.
+- Controle de acesso e autenticação multifator: definição de permissões e uso de verificações adicionais como códigos, aplicativos autenticadores ou biometria.
+- Integração segura com banco de dados: uso de consultas parametrizadas e restrição de privilégios, além de conexões criptografadas.
+
+## Segurança no Framework Django
+O Django, framework em Python, segue o princípio secure by default. Ele previne injeção SQL via ORM, protege contra XSS escapando variáveis, evita CSRF com tokens e bloqueia clickjacking via cabeçalhos HTTP. Oferece autenticação robusta com armazenamento seguro de senhas e configurações de cookies protegidos. Também inclui validação de dados e boas práticas como isolar arquivos estáticos, proteger diretórios sensíveis e aplicar medidas contra força bruta.
+
+## Arquitetura e Segurança no Modelo MVC
+O MVC é um padrão de arquitetura que ajuda a organizar melhor o funcionamento de um sistema. Ele facilita a comunicação entre o que o usuário faz e o que o sistema responde, tornando tudo mais rápido e eficiente. Criado há quase 50 anos, o MVC é dividido em três partes principais:
+- Model: gerencia dados e regras de negócio.
+- Controller: conecta a interface (View) ao Model e filtra dados maliciosos.
+- View: apresenta e coleta informações do usuário.
+Essa divisão aumenta a segurança, facilita manutenção, acelera o trabalho em equipe e simplifica alterações.
+
+## Desafios Profissionais e Visão de Trabalho
+A cibersegurança busca equilíbrio entre proteção e usabilidade. Medidas muito restritivas podem frustrar usuários; já a falta de segurança expõe riscos. É essencial manter softwares atualizados e testar aplicações antes do lançamento, usando:
+
+- Pentesting: simulação de ataques para encontrar falhas.
+- SAST: análise de código-fonte em busca de vulnerabilidades.
+- DAST: testes com a aplicação em execução, detectando problemas em tempo real.
+
+Manter a segurança é um processo contínuo, que exige atualização constante e alinhamento entre equipe de desenvolvimento e objetivos organizacionais.
+---
+
+## 🗺️ Mapa Mental
+
+![Mapa Mental - SEGURANÇA E DESAFIOS EM APLICAÇÃO WEB](SegurançaDesafioWeb.png)
+
+---
+
+## 📚 Referências
+- [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/First_steps/Website_security) - Segurança e Aplicação Web 
+- [Hora de Codar](https://horadecodar.com.br/como-sanitizar-inputs-com-php/#:~:text=Validação%20vs%20Sanitização,endereço%20de%20e-mail%20válido.) - Como sanitizar inputs em PHP
+- [Snyk](https://snyk-io.translate.goog/blog/session-management-security/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true) - Segurança no gerenciamento de sessão
+- [Commbox](https://www.commbox.com.br/blog/controle-de-acesso/autenticacao-multifator/#:~:text=A%20Autenticação%20Multifator%20(MFA)%20é,mesmo%20quando%20senhas%20são%20comprometidas.&text=A%20Autenticação%20Multifator%20(MFA)%20é%20um%20método%20de%20verificação%20essencial,essa%20camada%20extra%20de%20segurança.) - Autenticação Multifator
+- [Django](https://docs-djangoproject-com.translate.goog/en/5.2/topics/security/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) - Segurança em Django
+- [F5](https://www.f5.com/pt_br/company/blog/web-application-security-testing-tools#:~:text=Tipos%20de%20testes%20de%20segurança,melhor%20possíveis%20fragilidades%20de%20segurança.) - Ferramentas de Testes de Segurança
+- [Hostinger](https://www.hostinger.com/br/tutoriais/seguranca-web) - Segurança Web 
+- [Windows](https://learn.microsoft.com/pt-br/windows/win32/secauthz/the-client-security-context) - Segurança Cliente
