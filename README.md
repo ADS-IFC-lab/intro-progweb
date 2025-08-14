@@ -1,3 +1,130 @@
+**História e Evolução do Desenvolvimento Web: Das Origens à Era Moderna**
+
+**Autores: Cesar, Caio e Guilherme**
+
+**Introdução**
+
+O desenvolvimento web percorreu uma jornada extraordinária desde seus primórdios no final dos anos 1980 até os dias atuais. Esta evolução não apenas transformou a forma como acessamos e compartilhamos informações, mas também criou um dos setores mais dinâmicos e promissores da tecnologia moderna. Compreender esta trajetória histórica é fundamental para qualquer profissional que deseje ingressar na área, pois oferece contexto essencial sobre as tecnologias, desafios e oportunidades que moldam o mercado atual.
+
+**A Evolução Histórica do Desenvolvimento Web**
+
+Os Primórdios: A Era Pré-Web (1989-1991)
+A história da web começou com um problema prático enfrentado por Tim Berners-Lee e sua equipe no CERN. Os pesquisadores precisavam compartilhar informações científicas, mas utilizavam programas proprietários incompatíveis entre si, dificultando a colaboração. A solução veio com a criação do HTML (Hypertext Markup Language) em 1991, uma linguagem de marcação projetada para ser tecnologicamente neutra e facilmente compartilhável através de redes.
+O primeiro site da web, criado pelo próprio Berners-Lee em dezembro de 1990, era uma página simples com fundo branco, texto preto e links azuis - características que ainda hoje reconhecemos como padrões do HTML básico. Esta página serviu como guia para a World Wide Web, demonstrando o potencial revolucionário de conectar documentos através de hiperlinks.
+A Idade do Conteúdo Estático (1991-1995)
+Durante os primeiros anos, as páginas web eram essencialmente versões digitais de documentos impressos. O HTML permitia apenas conteúdo estático, sem elementos dinâmicos como animações, vídeos ou formulários interativos. Os desenvolvedores enfrentavam desafios significativos, como a necessidade de codificar manualmente elementos repetitivos (como barras laterais) em cada página individual.
+A navegação dependia inteiramente de hiperlinks, e qualquer atualização requeria modificação manual dos arquivos HTML. Esta abordagem artesanal, embora funcional, apresentava limitações evidentes em termos de escalabilidade e manutenibilidade.
+
+A Revolução do Servidor e o Conteúdo Dinâmico (Meados dos anos 1990)
+
+O advento da renderização no servidor (Server-Side Rendering - SSR) marcou um ponto de virada crucial. Linguagens como PHP permitiram que os desenvolvedores gerassem HTML dinamicamente, possibilitando conteúdo personalizado, integração com bancos de dados e reutilização de componentes.
+Paralelamente, o JavaScript, lançado em 1995, introduziu interatividade às páginas web. Pela primeira vez, era possível criar animações, validar formulários e atualizar conteúdo sem recarregar a página inteira. Esta combinação de tecnologias transformou a web de um meio passivo de consulta em uma plataforma interativa.
+
+A Era CSS e o Design Web (Final dos anos 1990)
+
+A introdução do CSS (Cascading Style Sheets) em 1996 foi comparável ao Renascimento na arte digital. Pela primeira vez, designers puderam separar completamente o conteúdo da apresentação, controlando layout, cores, fontes e aparência geral sem alterar a estrutura HTML. O projeto CSS Zen Garden, lançado em 2003, demonstrou dramaticamente este poder, mostrando como o mesmo documento HTML poderia ser completamente transformado através do CSS.
+
+A Guerra dos Navegadores e a Padronização (Meados a Final dos anos 1990)
+
+O período foi marcado pela intensa competição entre navegadores, iniciando com o Lynx (navegador de linha de comando), seguido pelo Netscape Navigator e Internet Explorer. Esta "guerra" trouxe tanto inovação quanto fragmentação, com diferentes navegadores implementando recursos de forma inconsistente. O jQuery, criado em 2006, emergiu como uma solução para estas incompatibilidades, simplificando manipulações DOM e requisições AJAX.
+
+A Revolução AJAX e a Web 2.0 (Início dos anos 2000)
+
+AJAX (Asynchronous JavaScript and XML) revolucionou a experiência do usuário ao permitir atualizações assíncronas de conteúdo sem recarregar páginas. Esta tecnologia, combinada com o conceito de Web 2.0, enfatizou conteúdo gerado pelo usuário e interações sociais, estabelecendo as bases para as modernas aplicações web.
+
+A Era das Single Page Applications (Anos 2010)
+
+O conceito de Single Page Applications (SPAs) emergiu com frameworks como AngularJS (2010), seguido pelo React (2013) e Vue.js (2014). Estas ferramentas permitiram que aplicações inteiras funcionassem dentro de uma única página, oferecendo experiências mais fluidas e responsivas. A arquitetura baseada em componentes tornou o código mais reutilizável e escalável.
+
+O Renascimento do Server-Side Rendering (Atual)
+
+Paradoxalmente, após a era das SPAs, observamos um renascimento do SSR, agora suportado por metaframeworks como Next.js, Nuxt.js e Angular Universal. Esta tendência é impulsionada por necessidades de SEO, performance inicial e segurança, demonstrando que a evolução tecnológica é cíclica e contextual.
+
+**Conexão com o Conteúdo da Disciplina**
+
+O programa da disciplina reflete diretamente esta evolução histórica, estruturado de forma a proporcionar compreensão progressiva das tecnologias fundamentais:
+
+1. Modelo Cliente-Servidor
+
+O conteúdo inicial sobre arquitetura cliente-servidor conecta-se diretamente com os primórdios da web, quando surgiu a necessidade de computadores se comunicarem através de redes. Compreender este modelo é essencial para entender como as requisições HTTP funcionam e como dados são transferidos na web.
+
+2. Arquitetura MVC
+
+O padrão MVC (Model-View-Controller) representa uma evolução natural dos desafios enfrentados quando o desenvolvimento web se tornou mais complexo. Este padrão separa responsabilidades de forma similar à separação entre HTML (estrutura), CSS (apresentação) e JavaScript (comportamento), conceitos fundamentais da evolução histórica.
+
+3. Fundamentos de Linguagem de Programação
+
+O estudo de fundamentos de programação é crucial porque, como visto na história, o desenvolvimento web evoluiu de páginas estáticas para aplicações complexas. Dominar esses conceitos permite compreender e implementar a lógica por trás das interações web modernas.
+
+4. Desenvolvimento de Aplicações Web
+
+Esta seção conecta-se com toda a evolução das SPAs e frameworks modernos. Os alunos aprenderão a desenvolver aplicações que incorporam décadas de evolução tecnológica, desde HTML básico até frameworks JavaScript avançados.
+
+5. Python e Django
+
+A escolha do Django reflete a importância histórica dos frameworks server-side. Django incorpora o padrão MVC, gerenciamento de sessões, integração com banco de dados e muitas outras funcionalidades que evoluíram ao longo da história da web.
+
+6. Cookies e Sessões
+
+Estes conceitos surgiram historicamente para superar a natureza stateless do protocolo HTTP, permitindo que aplicações web "lembrassem" de usuários entre requisições.
+
+7. Integração com Banco de Dados
+
+Representa a evolução de páginas estáticas para aplicações dinâmicas capazes de armazenar e recuperar informações persistentes.
+
+**Como a Visão de Mercado Guia o Aprendizado Técnico**
+
+Compreensão de Ciclos Tecnológicos
+
+A história demonstra que tecnologias seguem ciclos: emergem, ganham popularidade, enfrentam desafios e eventualmente são substituídas ou evoluem. Compreender estes ciclos ajuda estudantes a:
+Priorizar tecnologias fundamentais: HTML, CSS e JavaScript permanecem relevantes apesar de todas as mudanças
+Adaptar-se a mudanças: Frameworks específicos mudam, mas conceitos fundamentais persistem
+Antecipar tendências: Padrões históricos podem indicar direções futuras
+
+Contexto para Decisões Técnicas
+
+Conhecer a evolução histórica fornece contexto para decisões de arquitetura:
+Quando usar SSR vs SPA: Compreender que ambas abordagens têm vantagens específicas
+Escolha de frameworks: Entender que não existe "bala de prata", mas sim ferramentas adequadas para contextos específicos
+Padrões de design: MVC, por exemplo, surgiu para resolver problemas reais de organização de código
+
+Preparação para o Mercado de Trabalho
+
+A visão histórica prepara profissionais para:
+Manutenção de sistemas legados: Muitas empresas ainda utilizam tecnologias "antigas" que fazem parte desta evolução
+Comunicação técnica: Explicar decisões arquiteturais com base em contexto histórico
+Aprendizado contínuo: Reconhecer que a área está em constante evolução
+
+Desenvolvimento de Pensamento Crítico
+
+Compreender que cada tecnologia surgiu para resolver problemas específicos desenvolve:
+Capacidade de análise: Avaliar prós e contras de diferentes soluções
+Visão sistêmica: Entender como diferentes componentes se integram
+Adaptabilidade: Preparação para futuras mudanças tecnológicas
+
+**Conclusão**
+
+A história do desenvolvimento web revela uma trajetória de constante inovação impulsionada pela necessidade de resolver problemas práticos. Desde o HTML básico de Tim Berners-Lee até os frameworks modernos, cada evolução respondeu a desafios específicos de sua época.
+O conteúdo programático da disciplina reflete cuidadosamente esta evolução, proporcionando aos estudantes não apenas conhecimento técnico, mas também contexto histórico essencial. Compreender esta trajetória permite que futuros desenvolvedores tomem decisões mais informadas, adaptem-se mais rapidamente a mudanças e contribuam efetivamente para a contínua evolução da web.
+A visão de mercado obtida através desta perspectiva histórica é invaluável: ela transforma o aprendizado de um conjunto de tecnologias isoladas em uma compreensão integrada de como a web evoluiu e continua evoluindo. Esta compreensão não apenas facilita o domínio técnico atual, mas também prepara profissionais para navegar e contribuir com as transformações futuras do desenvolvimento web.
+Em um campo onde novas tecnologias emergem constantemente, a capacidade de contextualizar inovações dentro da evolução histórica maior torna-se uma competência fundamental para o sucesso profissional duradouro.
+
+**Mapa Mental: História e Evolução do Desenvolvimento Web**
+ 
+ ![Mapa mental](<mapa mental.png>)
+
+**Referências:**
+
+- https://medium.com/trainingcenter/guia-para-carreira-no-desenvolvimento-web-o-in%C3%ADcio-da-hist%C3%B3ria-b6eafdb885a4
+- https://www.tenchisecurity.com/br/insights-news/frontending-uma-breve-historia-do-desenvolvimento-web-parte-1
+- https://medium.com/@Abhishek-Tiwari/the-history-and-evolution-of-web-development-from-html-to-the-modern-web-982e3f90e891
+
+
+
+---
+
+
+
 # 🌐 Programação web | Back-end, Front-end e Full-stack
 
 **Autores:**  
