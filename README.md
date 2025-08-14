@@ -414,3 +414,38 @@ Manter a segurança é um processo contínuo, que exige atualização constante 
 - [Windows](https://learn.microsoft.com/pt-br/windows/win32/secauthz/the-client-security-context) - Segurança Cliente
 
 
+# 🌐 Tendências no Mercado de Trabalho para Desenvolvedores Web
+
+**Autores:** 
+
+ João Vítor Oliveira da Inhaia e Raquel Marafon
+
+Breve Resumo
+ ---
+
+O estudo "Tendências no Mercado de Trabalho para Desenvolvedores Web" apresenta um panorama atualizado das demandas e transformações do setor em 2025, abordando avanços tecnológicos, competências técnicas e soft skills essenciais para competitividade profissional. Destacam-se o impacto da Inteligência Artificial Generativa, a consolidação de modelos de trabalho remoto, híbrido e freelance, e a crescente adoção de frameworks modernos como React, Vue, Angular (front-end) e Node.js, Django, Spring Boot (back-end).
+
+A pesquisa evidencia que profissionais full stack e com domínio de cloud computing (AWS, Azure, Google Cloud), Progressive Web Apps e boas práticas de segurança (incluindo LGPD) terão maior empregabilidade. O uso de IA em desenvolvimento, por meio de ferramentas como GitHub Copilot e APIs de machine learning, desponta como diferencial estratégico.
+
+No âmbito comportamental, habilidades como comunicação, trabalho em equipe, resolução de problemas e aprendizado contínuo são apontadas como cruciais para colaboração eficaz e adaptação a um mercado dinâmico. A interligação entre aprendizado acadêmico e demandas reais do setor reforça a importância de uma formação prática, alinhada a metodologias ágeis e versionamento de código, para desenvolver soluções inovadoras e escaláveis.
+
+
+- [Mapa Mental - Tendências no Mercado de Desenvolvedores Web](MapaMentalTendenciasMercado.png)
+
+## 📚 Referências
+
+- RODRIGUES, Luciana. [Desenvolvedor web: mercado de trabalho](https://academiatech.blog.br/desenvolvedor-web-mercado-de-trabalho/). Academia Tech, 2023. Acesso em: 07 ago. 2025.
+
+- GOOGLE for Startups; ABSTARTUPS; BOX1824. [Panorama de talentos em tecnologia](https://blog.google/intl/pt-br/produtos/a-escassez-dos-profissionais-de-tecnologia-no-brasil-e-seu-consequente-impacto-no-ecossistema-de-startups/). Blog do Google Brasil, 2023. Acesso em: 14 ago. 2025.
+
+- BONFÁCIO, Carmen; SCHAPACHNIK, Fernando; PORTO, Fabio. [Generative AI and the transformation of Work in Latin America – Brazil](https://arxiv.org/abs/2505.13490). Acesso em: 14 ago. 2025.
+
+- VADODARIYA, S.; KULKARNI, G. [The Evolving Landscape of Full-Stack Web Development: Road Map, Trends, Challenges, and Future Directions](https://doi.org/10.55041/ijsrem43364). International Journal of Scientific Research in Engineering and Management, 2025. DOI: 10.55041/ijsrem43364.
+
+- ATTRI, V.; PATHANIA, P.; S. [Challenges of web development](https://doi.org/10.30574/wjaets.2025.14.1.0029). World Journal of Advanced Engineering Technology and Sciences, 2025. DOI: 10.30574/wjaets.2025.14.1.0029.
+
+- LOCAWEB. [Linguagens de programação: 5 tendências para 2025](https://www.locaweb.com.br/blog/temas/codigo-aberto/linguagem-de-programacao-5-tendencias-para-2025/). Blog Locaweb, 2025. Acesso em: 14 ago. 2025.
+
+- CGSULTECH. [As habilidades mais valorizadas para desenvolvedores em 2025](https://www.cgsultech.com.br/as-habilidades-mais-valorizadas-para-desenvolvedores-em-2025-prepare-se-para-o-futuro-da-tecnologia/). 2025. Acesso em: 14 ago. 2025.
+
+- SB, P.; AHMAD, S.; RAVISANKAR, P.; THAKUR, D.; CHAWLA, K.; CHARY, D.; MANOHARAN, G.; SHARMA, S. [A Study on Recent Trends of Technology and its Impact on Business and Hotel Industry](https://doi.org/10.59670/ml.v21is1.6406). Migration Letters, 2023. DOI: 10.59670/ml.v21is1.6406.
