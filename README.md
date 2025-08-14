@@ -9,6 +9,7 @@ O desenvolvimento web percorreu uma jornada extraordinária desde seus primórdi
 **A Evolução Histórica do Desenvolvimento Web**
 
 Os Primórdios: A Era Pré-Web (1989-1991)
+
 A história da web começou com um problema prático enfrentado por Tim Berners-Lee e sua equipe no CERN. Os pesquisadores precisavam compartilhar informações científicas, mas utilizavam programas proprietários incompatíveis entre si, dificultando a colaboração. A solução veio com a criação do HTML (Hypertext Markup Language) em 1991, uma linguagem de marcação projetada para ser tecnologicamente neutra e facilmente compartilhável através de redes.
 O primeiro site da web, criado pelo próprio Berners-Lee em dezembro de 1990, era uma página simples com fundo branco, texto preto e links azuis - características que ainda hoje reconhecemos como padrões do HTML básico. Esta página serviu como guia para a World Wide Web, demonstrando o potencial revolucionário de conectar documentos através de hiperlinks.
 A Idade do Conteúdo Estático (1991-1995)
