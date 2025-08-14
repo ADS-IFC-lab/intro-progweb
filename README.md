@@ -429,6 +429,10 @@ A pesquisa evidencia que profissionais full stack e com domínio de cloud comput
 
 No âmbito comportamental, habilidades como comunicação, trabalho em equipe, resolução de problemas e aprendizado contínuo são apontadas como cruciais para colaboração eficaz e adaptação a um mercado dinâmico. A interligação entre aprendizado acadêmico e demandas reais do setor reforça a importância de uma formação prática, alinhada a metodologias ágeis e versionamento de código, para desenvolver soluções inovadoras e escaláveis.
 
+Curtiu? Confira então nossa pesquisa completa e mapa mental! 
+
+
+- [Pesquisa - Tendências no Mercado de Desenvolvedores Web](Pesquisa-Tendencias_no_mercado_de_trabalho_para_desenvolvedores_web.pdf) 
 
 - [Mapa Mental - Tendências no Mercado de Desenvolvedores Web](MapaMentalTendenciasMercado.png)
 
