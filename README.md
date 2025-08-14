@@ -434,7 +434,7 @@ Curtiu? Confira então nossa pesquisa completa e mapa mental!
 
 - [Pesquisa - Tendências no Mercado de Desenvolvedores Web](Pesquisa-Tendencias_no_mercado_de_trabalho_para_desenvolvedores_web.pdf) 
 
-- [Mapa Mental - Tendências no Mercado de Desenvolvedores Web](MapaMentalTendenciasMercado.png)
+![Mapa Mental - Tendências no Mercado de Desenvolvedores Web](MapaMentalTendenciasMercado.png)
 
 ## 📚 Referências
 
