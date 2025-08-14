@@ -120,11 +120,89 @@ Em um campo onde novas tecnologias emergem constantemente, a capacidade de conte
 - https://www.tenchisecurity.com/br/insights-news/frontending-uma-breve-historia-do-desenvolvimento-web-parte-1
 - https://medium.com/@Abhishek-Tiwari/the-history-and-evolution-of-web-development-from-html-to-the-modern-web-982e3f90e891
 
+---
 
+# 🌐 Principais linguagens e frameworks usados atualmente.
+
+**Autores:**
+Cauê Grazziotin Borga e Pedro Henrique Haupt
 
 ---
 
+## 📝 Resumo
 
+Atualmente, o desenvolvimento web é um dos campos mais dinâmicos da tecnologia, com linguagens e frameworks evoluindo constantemente para atender às demandas de performance, escalabilidade e experiência do usuário. Segundo dados analisados no Stack Overflow Trends, além de análises de blogs técnicos e documentação oficial, observa-se que JavaScript continua sendo a linguagem mais utilizada no front-end, muitas vezes combinada com TypeScript para maior segurança e produtividade no código. No ecossistema de front-end, bibliotecas e frameworks como React, Angular e Vue se destacam, sendo o React o mais popular globalmente, enquanto ferramentas como Next.js e Nuxt.js ganham espaço por possibilitarem renderização no servidor e otimização de SEO.
+
+No back-end, a diversidade é grande. O Node.js, utilizando frameworks como Express, NestJS e Fastify, é amplamente adotado para criação de APIs e serviços web, especialmente em conjunto com JavaScript/TypeScript, favorecendo times que buscam uma única linguagem no front e no back. Outras opções robustas incluem o Spring Boot (Java), o ASP.NET Core (C#), o Django e o FastAPI (Python), o Laravel (PHP) e, em crescimento, o Gin e Fiber (Go), cada um com suas características específicas de produtividade, segurança e desempenho. Essas tecnologias são frequentemente citadas em publicações acadêmicas no Google Scholar, especialmente em estudos que comparam performance, manutenção e curva de aprendizado em diferentes contextos de uso.
+
+Segundo levantamentos de mercado (Glassdoor, GeekHunter e Stack Overflow Survey 2024), há faixas salariais médias no Brasil que ajudam a entender o cenário:
+
+* **JavaScript/TypeScript (React, Node.js, NestJS):** 
+    * Júnior R$ 3–5 mil, 
+    * Pleno R$ 6–9 mil, 
+    * Sênior R$ 10–15 mil.
+
+* **Java (Spring Boot):** 
+    * Júnior R$ 3,5–6 mil,
+    * Pleno R$ 7–11 mil, 
+    * Sênior R$ 12–18 mil.
+
+* **C# (.NET Core):**
+    * Júnior R$ 3–5,5 mil,
+    * Pleno R$ 6,5–10 mil,
+    * Sênior R$ 11–16 mil.
+
+* **Python (Django, FastAPI):** 
+    * Júnior R$ 3–5,5 mil, 
+    * Pleno R$ 7–10,5 mil, 
+    * Sênior R$ 12–17 mil.
+
+* **PHP (Laravel):** 
+    * Júnior R$ 2,5–4,5 mil, 
+    * Pleno R$ 5,5–8,5 mil, 
+    * Sênior R$ 9–13 mil.
+
+* **Go (Gin, Fiber):** 
+    * Júnior R$ 4–6,5 mil, 
+    * Pleno R$ 8–12 mil, 
+    * Sênior R$ 14–20 mil.
+
+Com base na quantidade de vagas divulgadas por empresas (LinkedIn Jobs Insights e Indeed 2024), o ranking de linguagens mais demandadas para desenvolvimento web no Brasil é:
+
+1. **JavaScript/TypeScript** – presente em mais de 70% das vagas de front-end e grande parte das de back-end com Node.js.
+
+2. **Java** – alta demanda em empresas de grande porte e sistemas corporativos.
+
+3. **Python** – muito usado para APIs, automação e integração com análise de dados.
+
+4. **C#** – forte no mercado corporativo e em aplicações internas.
+
+5. **PHP** – ainda dominante em projetos de e-commerce e sites institucionais.
+
+6. **Go** – menor volume total de vagas, mas crescimento acelerado, principalmente em empresas de tecnologia e fintechs.
+
+Em termos de uso por nível de experiência, desenvolvedores junior tendem a começar em stacks mais difundidos e com grande quantidade de material de estudo, como JavaScript/TypeScript, PHP/Laravel e Python/Django. Plenos já migram para tecnologias mais estruturadas e robustas, como Java/Spring Boot, C#/.NET Core e Node.js/NestJS. Seniors muitas vezes trabalham em ambientes que exigem alta performance e escalabilidade, usando Go, Rust, ou arquiteturas híbridas com microserviços, mantendo domínio de stacks já consolidadas.
+
+A relação desse panorama de mercado com a disciplina de Programação Web I é direta. Os tópicos previstos na grade, como APIs, web services, rotas, manipulação de dados e autenticação, são fundamentos presentes em praticamente todos os frameworks mencionados. Conceitos como consumo e criação de APIs REST, documentação com Swagger/OpenAPI, e integração com bancos de dados (relacionais ou NoSQL) são universais e, uma vez compreendidos, podem ser aplicados em qualquer linguagem ou framework. Assim, estudar esses fundamentos durante a disciplina proporciona uma base sólida que permitirá ao estudante migrar entre diferentes stacks sem precisar reaprender conceitos essenciais.
+
+Essa visão de mercado ajuda a guiar o aprendizado técnico ao indicar quais ferramentas têm maior relevância e empregabilidade, facilitando a escolha de tecnologias para projetos acadêmicos e profissionais. Por exemplo, ao saber que REST e JSON são padrões amplamente adotados, o aluno pode focar em dominar suas boas práticas; ao perceber que TypeScript e frameworks como React e NestJS são muito valorizados no mercado, pode priorizar seu estudo para aumentar as chances de empregabilidade. Além disso, acompanhar tendências permite que o estudante se mantenha atualizado e escolha caminhos de especialização que combinem afinidade pessoal com demanda profissional, maximizando o impacto de seu aprendizado e portfólio.
+
+---
+
+## 🗺️ Mapa Mental
+
+![Mapa Mental - Principais linguagens e frameworks utilizados atualmente](Mapa-Mental-principais-linguagens-e-frameworks-usados-atualmente.jpg)
+
+---
+
+## 📚 Referências
+
+* [LinkedIn Jobs Insigh](https://www.linkedin.com/company/insight/jobs/)
+* [Glassdoor](https://www.glassdoor.com.br/index.htm)
+* [GeekHunter](https://www.geekhunter.com.br)
+* [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
+
+---
 
 # 🌐 Programação web | Back-end, Front-end e Full-stack
 
